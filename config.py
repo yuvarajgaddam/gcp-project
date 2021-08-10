@@ -1,0 +1,6 @@
+customhost = "34.132.137.153"
+customuser = "root"
+custompass = "admin"
+customdb = "employee"
+custombucket = "addemployee"
+customregion = "us-central1-f"
